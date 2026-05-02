@@ -1,2 +1,2 @@
 # tinyserver
-Small and capable server. What else do we need?
+TinyServer is a safety service now. We need to protect systems.
